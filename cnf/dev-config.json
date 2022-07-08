@@ -1,0 +1,13 @@
+{
+    "env": {
+        "ORG":  "csitea",
+        "APP":  "sms",
+        "ENV":  "dev",
+        "some_variable": 32,
+        "complex_variable": {
+            "001": {
+                "cidr": ["10.0.0.0/16", "10.1.0.0/16"]
+            }
+        }
+    }
+}
